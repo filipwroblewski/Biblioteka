@@ -1,0 +1,10 @@
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\bin\Debug\WindowsFormsAppBiblioteka.exe.config
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\bin\Debug\WindowsFormsAppBiblioteka.exe
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\bin\Debug\WindowsFormsAppBiblioteka.pdb
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.Properties.Resources.resources
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.csproj.GenerateResource.cache
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.exe
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.pdb
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.Form1.resources
+C:\Users\pilif\source\repos\WindowsFormsAppBiblioteka\WindowsFormsAppBiblioteka\obj\Debug\WindowsFormsAppBiblioteka.csprojAssemblyReference.cache
